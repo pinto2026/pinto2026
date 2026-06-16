@@ -1,9 +1,8 @@
-## Hi there 👋
+## Aprendizaje de GITHUB 👋
+<img width="229" height="168" alt="image" src="https://github.com/user-attachments/assets/ffbf8491-318d-4bff-a2d5-bfedd1958b26" />
 
-<!--
+
 **pinto2026/pinto2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
